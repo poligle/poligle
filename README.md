@@ -73,7 +73,7 @@ Currently doing some research about **differential positioning using opportunist
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/poligle/poligle/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/poligle/poligle/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---

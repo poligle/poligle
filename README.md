@@ -21,6 +21,10 @@
 Hello World! I'm **Pol**, a Telecommunications Engineering student specializing in advanced communication systems @ **UAB**, and an absolute tech geek. My focus oscillates around radio frequency, digital signal processing, and satellite-based navigation systems. <br>
 Currently doing some research about **differential positioning using opportunistic LEO satellites** in SPCOMNAV (UAB).
 
+<p align="center">
+  <img src="./assets/ascsat-navsat-nixos.gif" alt="ASCSAT render of LEO NavSat" width="960">
+</p>
+
 ---
 <div align="center">
 

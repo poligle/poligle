@@ -84,7 +84,7 @@ Currently doing some research about **differential positioning using opportunist
 
 <div align="center">
   <p>Want to connect? Feel free to reach out!</p>
-  <a href="https://www.linkedin.com/in/pol-iglesias-masip/" target="_blank">
+  <a href="https://www.linkedin.com/in/poligle/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>

@@ -87,4 +87,5 @@ Currently doing some research about **differential positioning using opportunist
   <a href="https://www.linkedin.com/in/poligle/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/poligle/badge.svg)](https://hub.xerj.org/contributors/poligle)
 </div>

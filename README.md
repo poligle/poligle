@@ -84,10 +84,14 @@ Currently doing some research about **differential positioning using opportunist
 
 <div align="center">
   <p>Want to connect? Feel free to reach out!</p>
-  <a href="https://www.linkedin.com/in/poligle/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://hub.xerj.org/contributors/poligle" target="_blank">
-    <img src="https://hub.xerj.org/contributors/poligle/badge.svg" alt="XERJ Corpus Hub contributor">
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/poligle/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  <p>
+    <a href="https://hub.xerj.org/contributors/poligle" target="_blank">
+      <img src="https://hub.xerj.org/contributors/poligle/badge.svg" alt="XERJ Corpus Hub contributor">
+    </a>
+  </p>
 </div>
